@@ -1,0 +1,6 @@
+- 😃 A Student
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning how to code
+- 😅 A beginner into the world of programming
+- ❤️ I love writing code
+- ⚡ Fun fact: I'm 13 years old
